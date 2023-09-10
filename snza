@@ -1,5 +1,5 @@
 ----------------------------------------
-sudo apt update && sudo apt upgrade -y
+
 ---------------------------------------------
 sudo apt install curl tar wget clang pkg-config libssl-dev jq build-essential bsdmainutils git make ncdu -y
 -------------------------------------------------
@@ -180,6 +180,7 @@ source $HOME/.bash_profile
 $request celestia1a35035fu83jkeeqz00d3jmt3k5wu5x3lyvn6qp
 
 ------------------------------------- 
-با کد زیر هم میتونید موجودی ولت خودتون رو ببنید  که به جای ایکس ها ادرس خودتون رو وارد کنید 
+
+
 
 celestia-appd q bank balances xxxxxxxxxxxxx
