@@ -8,7 +8,7 @@ rm -rf celestia-app
 git clone https://github.com/celestiaorg/celestia-app.git
 
 -------------------------------------------------
-celestia-appd version
+
 -------------------------------------------
 git clone https://github.com/celestiaorg/networks
 -------------------------------
