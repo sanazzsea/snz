@@ -16,7 +16,7 @@ git clone https://github.com/celestiao/networks
 git clone ://github.com/celestiaorg/networks.git
 
 ------------------------
-C
+
 
 CELESTIA_NODENAME="sanaz" 
 CELESTIA_WALLET="sanaz1"
